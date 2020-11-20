@@ -1,4 +1,4 @@
-
+animal = "";
 
 function myAnimal() {
   const animal = "";
